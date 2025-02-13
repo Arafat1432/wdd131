@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const temples = [
         {
-            templeName: "Lima Perú",
+            templeName: "Lima Perú", 
             location: "Lima, Perú",
             dedicated: "1986, January, 10",
             area: 9600,
