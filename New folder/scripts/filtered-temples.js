@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             templeName: "Lima Perú", 
             location: "Lima, Perú",
-            dedicated: "1986, January, 10",
+            dedicated: "1986, January, 10", 
             area: 9600,
             imageUrl:
             "https://content.churchofjesuschrist.org/templesldsorg/bc/Temples/photo-galleries/lima-peru/400x250/lima-peru-temple-evening-1075606-wallpaper.jpg"
